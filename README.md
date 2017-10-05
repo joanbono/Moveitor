@@ -4,6 +4,8 @@ Creates a folder for each file and places the file into the folder
 
 It's written in **Powershell** because Linux users got a real command line in their computers :trollface:.
 
+Tested on **Powershell** `v.5.1`.
+
 *** 
 
 ## Usage
